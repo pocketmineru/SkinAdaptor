@@ -1,0 +1,15 @@
+# SkinAdaptor Configuration
+# Fix Persona skins in offline-mode without Xbox Live authentication
+
+# Enable debug logging
+# Set to false in production to reduce console spam
+debug: false
+
+# Plugin settings
+settings:
+  # Clear skin cache on player quit to save memory
+  clear-cache-on-quit: true
+  
+  # Allow HD skins (256x256, 512x512)
+  # Note: HD skins will be downscaled to 128x128 due to PocketMine-MP core limitations
+  allow-hd-skins: true

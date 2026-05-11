@@ -1,0 +1,9 @@
+---
+name: SkinAdaptor
+main: planetpe\SkinAdaptor\Main
+version: 2.0.0
+api: [5.0.0]
+author: PlanetPE
+description: Fixed skin adapter with full persona skin support for offline mode
+website: https://planetpe.net
+...
